@@ -1,3 +1,5 @@
+### KYC Verification of Client and Client On-boarding using WorldCoin
+
 The OP Concierge Suite uses Worldcoin's WorldID for KYC verification by integrating WorldID's biometric identity verification system into its client onboarding process. We are at an initial stage of development. Please find the demo at  
 https://drive.google.com/drive/folders/1NgPOsSNtbwSCA8LS1I86LxPg-jaA2w-f?usp=drive_link
 And code at https://github.com/seetadev/op-conceirge-suite/tree/main/OP-Conceirge-Work-Order/world-id-kyc-client . Usage in OP Conceirge Work Order at https://github.com/seetadev/op-conceirge-suite/tree/main/OP-Conceirge-Work-Order
