@@ -133,3 +133,28 @@ We wish to enable seamless integration of Worldcoin for KYC verification of clie
    - Audit Trails: The system can maintain records of KYC checks performed through WorldID, ensuring transparency and compliance with legal requirements.
 
 This integration allows the OP Concierge Suite to offer a seamless, privacy-preserving KYC process, leveraging the decentralized and secure identity verification capabilities of Worldcoin's WorldID.
+
+
+### Pyth Network
+
+We are using Pyth network to compute concierge services and product Costs in a Client/Customer local Tour. We integrate Pyth’s currency exchange rate feeds to convert and display invoice amounts accurately. For a tourist work order, Pyth can provide real-time costs, ensuring that the invoice reflects accurate and up-to-date pricing. 
+
+Please visit https://github.com/seetadev/op-conceirge-suite/tree/main/OP-Conceirge-Work-Order
+
+Screenshots and Demo at 
+https://drive.google.com/drive/u/1/folders/1iOmBTTektI82aSQOvf2ui1U5sPtXsPzw 
+
+Vercel Link: https://op-conceirge-invoice-suite-9petuh61g.vercel.app/
+
+Vehicle Auction Services: We are using the Pyth network for Concierge Vehicle Auction Services: For a Concierge work order involving the auctioning of a vehicle, we use Pyth to dynamically adjust the starting bid or reserve price based on the current market value. Please visit https://github.com/seetadev/op-conceirge-suite/tree/main/Concierge-vehicle-service-homestays/Conceirge-Auction-quote-workflow-vehicle 
+ 
+
+Screenshots and Demo at 
+https://drive.google.com/drive/u/1/folders/1iOmBTTektI82aSQOvf2ui1U5sPtXsPzw 
+
+Vercel link: https://car-auction-dapp-optimisum.vercel.app/
+
+Dashboard, OP Concierge User Interface and Reporting:
+Display Real-Time Data: We include real-time data from Pyth in the user interface of the invoices and work orders module, providing transparency and accuracy.
+Reports and Analytics: We use Pyth data for generating reports and analytics that show trends, cost fluctuations, and their impact on invoices and work orders.
+
