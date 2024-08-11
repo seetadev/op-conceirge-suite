@@ -1,3 +1,15 @@
+# Vehicle Auction Services using Pyth network 
+
+We are using the Pyth network for Concierge Vehicle Auction Services: For a Concierge work order involving the auctioning of a vehicle, we use Pyth to dynamically adjust the starting bid or reserve price based on the current market value. Please visit https://github.com/seetadev/op-conceirge-suite/tree/main/Concierge-vehicle-service-homestays/Conceirge-Auction-quote-workflow-vehicle 
+ 
+
+Screenshots and Demo at 
+https://drive.google.com/drive/u/1/folders/1iOmBTTektI82aSQOvf2ui1U5sPtXsPzw 
+
+Vercel link: https://car-auction-dapp-optimisum.vercel.app/
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
