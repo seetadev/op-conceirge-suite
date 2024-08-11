@@ -13,7 +13,11 @@ https://drive.google.com/drive/u/1/folders/1iOmBTTektI82aSQOvf2ui1U5sPtXsPzw
 
 Vercel Link: https://op-conceirge-invoice-suite-9petuh61g.vercel.app/
 
+Dashboard, OP Concierge User Interface and Reporting:
 
+Display Real-Time Data: We include real-time data from Pyth in the user interface of the invoices and work orders module, providing transparency and accuracy.
+
+Reports and Analytics: We use Pyth data for generating reports and analytics that show trends, cost fluctuations, and their impact on invoices and work orders.
 
 
 ## Prerequisites
