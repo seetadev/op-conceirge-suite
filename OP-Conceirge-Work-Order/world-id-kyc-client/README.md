@@ -1,3 +1,28 @@
+The OP Concierge Suite uses Worldcoin's WorldID for KYC verification by integrating WorldID's biometric identity verification system into its client onboarding process. We are at an initial stage of development. Please find the demo at  
+https://drive.google.com/drive/folders/1NgPOsSNtbwSCA8LS1I86LxPg-jaA2w-f?usp=drive_link
+And code at https://github.com/seetadev/op-conceirge-suite/tree/main/OP-Conceirge-Work-Order/world-id-kyc-client . Usage in OP Conceirge Work Order at https://github.com/seetadev/op-conceirge-suite/tree/main/OP-Conceirge-Work-Order
+ 
+We wish to enable seamless integration of Worldcoin for KYC verification of client as follows: 
+
+ 1. WorldID Integration:
+   - SDK/API Integration: The OP Concierge Suite integrates WorldID through its SDK or API, allowing clients to verify their identity using Worldcoin's biometric authentication.
+   - Biometric Verification: Clients would undergo a biometric scan (typically using an orb device provided by Worldcoin) to verify their identity. This biometric data is then linked to a unique WorldID.
+
+ 2. KYC Verification Process:
+   - Onboarding: When a new client signs up, they are prompted to verify their identity using WorldID. The system checks the biometric data against Worldcoin's decentralized identity network.
+   - Verification: Once the client's identity is verified through WorldID, the suite marks the KYC process as complete. This verification is privacy-preserving, as the biometric data is not shared but only used to generate a proof of identity.
+
+ 3. Secure Identity Management:
+   - Decentralized Identity: WorldID enables decentralized identity management, ensuring that clients retain control over their identity data. The OP Concierge Suite uses this verified identity to meet KYC requirements without directly storing sensitive personal information.
+
+ 4. Compliance and Auditing:
+   - Regulatory Compliance: By integrating WorldID, the OP Concierge Suite ensures that it meets KYC and AML (Anti-Money Laundering) regulations without compromising user privacy.
+   - Audit Trails: The system can maintain records of KYC checks performed through WorldID, ensuring transparency and compliance with legal requirements.
+
+This integration allows the OP Concierge Suite to offer a seamless, privacy-preserving KYC process, leveraging the decentralized and secure identity verification capabilities of Worldcoin's WorldID.
+
+# Implementation
+
 KYC Client Verification with Worldcoin
 
 We are authenticating and authorizing client with Worldcoin using NextAuth.js
