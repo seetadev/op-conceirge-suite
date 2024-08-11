@@ -17,7 +17,7 @@ yarn -v
 Clone your fork of the Web3-Medical-Invoice repository:
 
 ```bash
-git clone https://github.com/[USER_NAME]/Web3-Medical-Invoice
+git clone https://github.com/[USER_NAME]/Repo
 ```
 
 ### Opening the Project
@@ -25,7 +25,7 @@ git clone https://github.com/[USER_NAME]/Web3-Medical-Invoice
 Open the project in your preferred code editor. If you use Visual Studio Code, you can do this with:
 
 ```bash
-code Web3-Medical-Invoice
+code Repo
 ```
 
 ### Setting Up Environment Variables
